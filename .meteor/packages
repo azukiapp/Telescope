@@ -42,3 +42,4 @@ telescope:theme-hubble
 telescope:update-prompt
 
 ############ Your Custom Packages ############
+seba:minifiers-autoprefixer
